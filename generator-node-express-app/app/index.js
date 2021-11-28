@@ -73,12 +73,12 @@ module.exports = class extends Generator {
   }
   async writing() {
     this.fs.copyTpl(
-      this.templatePath('.env'),
+      this.templatePath('env'),
       this.destinationPath('.env'),
       this.cfg
     )
     this.fs.copyTpl(
-      this.templatePath('.gitignore'),
+      this.templatePath('gitignore'),
       this.destinationPath('.gitignore'),
       this.cfg
     )
