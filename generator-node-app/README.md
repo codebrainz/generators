@@ -7,7 +7,7 @@ This is a generator for a basic NodeJS app using Typescript.
 Run the following command to install the generator:
 
 ```bash
-$ npm i -g @codebrainz/generator-node-app
+$ npm i -g yo @codebrainz/generator-node-app
 ```
 
 ## Usage
@@ -15,5 +15,5 @@ $ npm i -g @codebrainz/generator-node-app
 Run the following command in the destination directory to run the generator:
 
 ```bash
-$ npx yo @codebrainz/node-app
+$ yo @codebrainz/node-app
 ```
