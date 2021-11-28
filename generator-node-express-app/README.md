@@ -12,7 +12,7 @@ $ npm i -g @codebrainz/generator-node-express-app
 
 ## Usage
 
-Run the following command to run the generator:
+Run the following command in the destination directory to run the generator:
 
 ```bash
 $ npx yo @codebrainz/node-express-app
