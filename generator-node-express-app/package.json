@@ -1,7 +1,7 @@
 {
-  "name": "@codebrainz/generator-node-app",
+  "name": "@codebrainz/generator-node-express-app",
   "version": "0.1.0",
-  "description": "Scaffolds a basic NodeJS app with Typescript",
+  "description": "Scaffolds a NodeJS Express app with Typescript",
   "author": "Matthew Brush <m@cdbz.ca>",
   "license": "MIT",
   "keywords": [
