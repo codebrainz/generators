@@ -1,0 +1,16 @@
+{
+  "name": "generator-node-app",
+  "version": "0.1.0",
+  "description": "Scaffolds a basic node app with Typescript",
+  "author": "Matthew Brush <m@cdbz.ca>",
+  "license": "MIT",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "files": [
+    "app"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^5.4.2"
+  }
+}
