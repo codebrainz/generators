@@ -1,0 +1,36 @@
+{
+  "name": "@codebrainz/generator-spa",
+  "version": "0.1.0",
+  "description": "Scaffolds a single-page application",
+  "author": "Matthew Brush <m@cdbz.ca>",
+  "license": "MIT",
+  "keywords": [
+    "babel",
+    "boilerplate",
+    "postcss",
+    "sass",
+    "scss",
+    "spa",
+    "svelte",
+    "template",
+    "typescript",
+    "webpack",
+    "yeoman-generator"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codebrainz/generators"
+  },
+  "files": [
+    "app"
+  ],
+  "prettier": {
+    "semi": false,
+    "singleQuote": true,
+    "bracketSameLine": true,
+    "arrowParens": "avoid"
+  },
+  "dependencies": {
+    "yeoman-generator": "^5.4.2"
+  }
+}
